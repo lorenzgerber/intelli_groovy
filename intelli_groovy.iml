@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="groovy-2.5.0" level="application" />
+    <orderEntry type="module-library">
+      <library name="Grab:ejml-all-0.34.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.ejml/ejml-all/jars/ejml-all-0.34.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:ejml-core-0.34.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.ejml/ejml-core/jars/ejml-core-0.34.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:ejml-fdense-0.34.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.ejml/ejml-fdense/jars/ejml-fdense-0.34.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:ejml-ddense-0.34.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.ejml/ejml-ddense/jars/ejml-ddense-0.34.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:ejml-cdense-0.34.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.ejml/ejml-cdense/jars/ejml-cdense-0.34.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:ejml-zdense-0.34.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.ejml/ejml-zdense/jars/ejml-zdense-0.34.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:ejml-dsparse-0.34.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.ejml/ejml-dsparse/jars/ejml-dsparse-0.34.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:ejml-simple-0.34.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.ejml/ejml-simple/jars/ejml-simple-0.34.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
